@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Tanishq, currently a Computer Science undergrad.
-- 👀 I love learning, and absolutely love applying my existing knowledge. 
+- 👋 Hi, I'm Tanishq, Final Year Computer Science undergrad.
+- 👀 I love learning. 
 - 🌱 I’m on my full stack journey along with probelm solving in data structures and algorithms.
-- 💞️ I’m looking to collaborate on Responsive webpage projects.
+- 💞️ I’m looking to collaborate projects.
 - 📫 Connect with me: txnishq@gmail.com
 
 <!---
